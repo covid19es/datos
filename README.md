@@ -2,6 +2,7 @@
 Fuentes de datos utilizadas para el proyecto covid19es.org, y referencias bibliográficas a datos externos.
 
 “CSSEGISandData/COVID-19.” 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository. Center for Systems Science and Engineering at Johns Hopkins University, 26 de Marzo, 2020. https://github.com/CSSEGISandData/COVID-19. 
+
 Goh, Gabriel. Epidemic Calculator. https://gabgoh.github.io/COVID/.
 
 "Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand​". Imperial College London, Imperial College COVID-19 Response Team, 16 de marzo, 2020. Neil M Ferguson, Daniel Laydon, Gemma Nedjati-Gilani, Natsuko Imai, Kylie Ainslie, Marc Baguelin, Sangeeta Bhatia, Adhiratha Boonyasiri, Zulma Cucunubá, Gina Cuomo-Dannenburg, Amy Dighe, Ilaria Dorigatti, Han Fu, Katy Gaythorpe, Will Green, Arran Hamlet, Wes Hinsley, Lucy C Okell, Sabine van Elsland, Hayley Thompson, Robert Verity, Erik Volz, Haowei Wang, Yuanrong Wang, Patrick GT Walker, Caroline Walters, Peter Winskill, Charles Whittaker, Christl A Donnelly, Steven Riley, Azra C Ghani. https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf.
