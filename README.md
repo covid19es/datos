@@ -11,6 +11,8 @@ Goh, Gabriel. Epidemic Calculator. https://gabgoh.github.io/COVID/.
 
 “datasets/COVID 19“. Datadista, 26 de marzo, 2020. https://github.com/datadista/datasets/tree/master/COVID%2019.
 
+“Actualización nº 57. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 27 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_57_COVID-19.pdf.
+
 “Actualización nº 56. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 26 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_56_COVID-19.pdf.
 
 “Actualización nº 55. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 25 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_55_COVID-19.pdf.
