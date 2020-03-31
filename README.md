@@ -11,6 +11,14 @@ Goh, Gabriel. Epidemic Calculator. https://gabgoh.github.io/COVID/.
 
 “datasets/COVID 19“. Datadista, 26 de marzo, 2020. https://github.com/datadista/datasets/tree/master/COVID%2019.
 
+“Actualización nº 61. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 31 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_61_COVID-19.pdf.
+
+“Actualización nº 60. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 30 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_60_COVID-19.pdf.
+
+“Actualización nº 59. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 29 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_59_COVID-19.pdf.
+
+“Actualización nº 58. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 28 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_58_COVID-19.pdf.
+
 “Actualización nº 57. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 27 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_57_COVID-19.pdf.
 
 “Actualización nº 56. Enfermedad por el coronavirus (COVID-19).” Ministerio de Sanidad, Centro de Coordinación de Alertas y Emergencias Sanitarias, 26 de marzo, 2020. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_56_COVID-19.pdf.
